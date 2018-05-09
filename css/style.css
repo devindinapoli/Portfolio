@@ -20,7 +20,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 400px;
   line-height: 0;
   height: auto;
   color: rgba(255, 255, 255, 0.9);
@@ -57,4 +57,26 @@ footer.page-footer {
 }
 .hello {
   color: #413539;
+}
+
+.carousel .carousel-item {
+  width: 400px !important;
+}
+.fa-envelope {
+  font-size: 32px;
+}
+.fa-github-square,
+.fa-linkedin,
+.fa-facebook-square {
+  font-size: 50px;
+  margin-top: 14px;
+}
+.contact {
+  margin-top: 32px;
+}
+
+.fa-github-square:hover,
+.fa-linkedin:hover,
+.fa-facebook-square:hover {
+  color: grey;
 }

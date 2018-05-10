@@ -87,3 +87,21 @@ footer.page-footer {
 a {
   color: black;
 }
+
+.hello,
+.myWork,
+.interested {
+  opacity: -1;
+}
+.parallax {
+  opacity: -1;
+}
+
+.fa-cogs,
+.fa-eye,
+.material-icons,
+.skills,
+.skills2,
+.skills3 {
+  opacity: -1;
+}

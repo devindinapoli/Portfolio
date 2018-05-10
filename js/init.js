@@ -1,3 +1,42 @@
+$(document).ready(function() {
+  $(".myWork")
+    .delay(500)
+    .animate({ opacity: 1 }, 700);
+  $(".hello")
+    .delay(500)
+    .animate({ opacity: 1 }, 700);
+  $(".parallax")
+    .delay(200)
+    .animate({ opacity: 1 }, 700);
+
+  $(".interested")
+    .delay(200)
+    .animate({ opacity: 1 }, 700);
+
+  $(".fa-eye")
+    .delay(500)
+    .animate({ opacity: 1 }, 700);
+
+  $(".fa-cogs")
+    .delay(550)
+    .animate({ opacity: 1 }, 700);
+
+  $(".material-icons")
+    .delay(600)
+    .animate({ opacity: 1 }, 700);
+
+  $(".skills")
+    .delay(500)
+    .animate({ opacity: 1 }, 700);
+
+  $(".skills2")
+    .delay(550)
+    .animate({ opacity: 1 }, 700);
+
+  $(".skills3")
+    .delay(600)
+    .animate({ opacity: 1 }, 700);
+});
 (function($) {
   $(function() {
     $(".sidenav").sidenav();

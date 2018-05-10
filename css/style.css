@@ -55,8 +55,11 @@ p {
 footer.page-footer {
   margin: 0;
 }
-.hello {
-  color: #413539;
+.hello,
+.interested,
+.myWork {
+  color: #f0e130;
+  font-family: "Hind Siliguri", sans-serif;
 }
 
 .carousel .carousel-item {
@@ -79,4 +82,8 @@ footer.page-footer {
 .fa-linkedin:hover,
 .fa-facebook-square:hover {
   color: grey;
+}
+
+a {
+  color: black;
 }

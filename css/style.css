@@ -65,8 +65,12 @@ footer.page-footer {
 .carousel .carousel-item {
   width: 400px !important;
 }
-.fa-envelope {
+.fa-envelope,
+.fa-file-pdf {
   font-size: 32px;
+}
+.fa-envelope {
+  margin-top: 5px;
 }
 .fa-github-square,
 .fa-linkedin,

@@ -109,3 +109,8 @@ a {
 .skills3 {
   opacity: -1;
 }
+.port {
+  border: 2px solid;
+  border-radius: 3px;
+  border-color: black;
+}

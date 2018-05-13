@@ -74,7 +74,8 @@ footer.page-footer {
 }
 .fa-github-square,
 .fa-linkedin,
-.fa-facebook-square {
+.fa-facebook-square,
+.fa-medium {
   font-size: 50px;
   margin-top: 14px;
 }
@@ -84,7 +85,8 @@ footer.page-footer {
 
 .fa-github-square:hover,
 .fa-linkedin:hover,
-.fa-facebook-square:hover {
+.fa-facebook-square:hover,
+.fa-medium:hover {
   color: grey;
 }
 
